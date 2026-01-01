@@ -1,12 +1,30 @@
-# React + Vite
+# 3D Rotating Cylinder – React Three Fiber
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple yet visually appealing **3D rotating cylinder** built using **React Three Fiber (Three.js)**.  
+The project demonstrates how to apply textures, animate 3D objects, and enhance visuals using postprocessing effects like **Bloom**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🎨 Textured 3D cylinder
+- 🔄 Smooth rotation animation using `useFrame`
+- 💡 Real-time 3D rendering with `@react-three/fiber`
+- ✨ Bloom postprocessing effect
+- 🎥 Camera setup optimized for 3D view
+- 🧩 Clean component-based structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+- **Three.js**
+- **@react-three/fiber**
+- **@react-three/drei**
+- **@react-three/postprocessing**
+
+---
+
+
+
